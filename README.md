@@ -1,8 +1,12 @@
 NYUAD IM Dept Resources Page
 ============================
 
-Courses
--------
+Dept Website
+------------
+* [NYUAD IM](http://nyuad.im)  
+
+Course Websites
+---------------
 #### Intro
 * [Intro to Interactive Media](http://intro.nyuad.im/)
 * [Intro to Communications Lab](http://commlab.nyuad.im)  
