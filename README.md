@@ -1,9 +1,10 @@
-NYUAD Interactive Media Dept Resources Page
-===========================================
+NYUAD IM Dept Resources Page
+============================
 
-Faculty
--------
 
 Courses
 -------
+
+
+
 
