@@ -17,8 +17,19 @@ Course Websites
 
 #### CORE
 * [CORE - Play](http://play.nyuad.im/)
-* [CORE - Communication & Technology](http://commtech.nyuad.im)
+* [CORE - Communication & Technology](http://commtech.nyuad.im)  
 
+Contacts
+--------
+#### Faculty
+* Scott Fitzgerald - scott.fitzgerald@nyu.edu  
+* Craig Protzel - craig.protzel@nyu.edu  
 
+#### Technical Instructor
+* Diana Chester - diana.chester@nyu.edu  
+
+#### GAF Support
+* Attilio Rigotti - arigottijr@gmail.com   
+* James Hosken - james.hosken@nyu.edu  
 
 
