@@ -29,7 +29,7 @@ Contacts
 * Diana Chester - diana.chester@nyu.edu  
 
 #### GAF Support
-* Attilio Rigotti - arigottijr@gmail.com   
+* Attilio Rigotti - aar350@nyu.edu   
 * James Hosken - james.hosken@nyu.edu  
 
 
