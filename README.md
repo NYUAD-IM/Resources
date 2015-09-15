@@ -25,7 +25,7 @@ Contacts
 * Scott Fitzgerald - scott.fitzgerald@nyu.edu  
 * Craig Protzel - craig.protzel@nyu.edu  
 
-#### Technical Instructor
+#### Lecturer
 * Diana Chester - diana.chester@nyu.edu  
 
 #### GAF Support
